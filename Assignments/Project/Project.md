@@ -13,3 +13,9 @@ The range of BMI is divided into the following 4 major categories:
   3. If your BMI is 25.0 to <30, it falls within the overweight range.
   4. If your BMI is 30.0 or higher, it falls within the obese range.
 
+Obesity itself is divided into the following subcategories:
+
+
+  * Class 1: BMI of 30 to < 35
+  * Class 2: BMI of 35 to < 40
+  * Class 3: BMI of 40 or higher. Class 3 obesity is sometimes categorized as “extreme” or “severe” obesity.
