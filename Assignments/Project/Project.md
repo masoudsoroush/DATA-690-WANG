@@ -19,3 +19,8 @@ Obesity itself is divided into the following subcategories:
   * Class 1: BMI of 30 to < 35
   * Class 2: BMI of 35 to < 40
   * Class 3: BMI of 40 or higher. Class 3 obesity is sometimes categorized as “extreme” or “severe” obesity.
+  
+  As Obesity is the root of many other diseases and health problem, it is very crucial to have a quantitative understanding of its status in U.S. and in the world. According to National Institute of Health (NIH), awareness of the importance of obesity and an urgency for action in view of the increasing numbers of people of excess weight at all ages is increasing. The focus is on the effect of obesity on conditions with high morbidity and mortality—for example, coronary heart disease, ischaemic stroke, type 2 diabetes and cancers,1 whereas the effect on osteoarthritis, back pain and other musculoskeletal problems2 is underappreciated.
+  
+In this project, we will study the status of obesity in U.S. and compare it with the obesity condition in other countries.
+
