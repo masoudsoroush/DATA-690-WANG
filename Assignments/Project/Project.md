@@ -24,7 +24,7 @@ Obesity itself is divided into the following subcategories:
   
 In this project, we will study the status of obesity in U.S. and compare it with the obesity condition in other countries.
 
-## Goal of the Project
+## Goals of the Project
 
 In this project, we will attempt to answer the following questions:
 
