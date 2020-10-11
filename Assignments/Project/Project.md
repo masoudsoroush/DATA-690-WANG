@@ -8,14 +8,14 @@ Overweight is a big health problem that can cause many other health issues both 
 
 Body Mass Index (BMI) is a person’s weight in kilograms divided by the square of height in meters. 
 
-The range of BMI is divided into the following 4 major categories:
+According to CDC, the range of BMI is divided into the following 4 major categories:
 
   1. If your BMI is less than 18.5, it falls within the underweight range.
   2. If your BMI is 18.5 to <25, it falls within the normal.
   3. If your BMI is 25.0 to <30, it falls within the overweight range.
   4. If your BMI is 30.0 or higher, it falls within the obese range.
 
-Obesity itself is divided into the following subcategories:
+Also, according to CDC, obesity itself is divided into the following subcategories:
 
 
   * Class 1: BMI of 30 to < 35
