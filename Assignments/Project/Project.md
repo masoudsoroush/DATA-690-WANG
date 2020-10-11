@@ -43,6 +43,6 @@ We will be mainly using the dataset of NCD.RisC (http://ncdrisc.org/index.html) 
 
 ## Data Characteristics
 
-* The unit of our analysis is country. The unit for the sample (if we will study it) is person.
-* The variables used in our analysis are **Country**, **Year**, **Gender**, **Mean BMI**, **Prevalence of BMI** (for different subclasses).
-* In our exploratory analysis, we will use bar charts, summary statistics, scatter plots, and perhaps the hypothesis test. 
+* The unit of our analysis for the major part of this project is country. The unit for the sample (if we will study it ever) is however person.
+* The variables used in our analysis are **Country**, **Year**, **Gender**, **Mean BMI**, **Prevalence of BMI** (for different subclasses of both obese and underweight cases).
+* In our exploratory analysis, we expect to use bar charts, summary statistics, scatter plots, and perhaps the hypothesis test to answer some well-formulated questions. 
