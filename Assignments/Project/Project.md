@@ -1,4 +1,6 @@
 # Project Proposal: BMI Index and Obesity
+![](BMI.jpg)
+
 
 ## Background
 
