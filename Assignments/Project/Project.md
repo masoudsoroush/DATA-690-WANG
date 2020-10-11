@@ -24,3 +24,18 @@ Obesity itself is divided into the following subcategories:
   
 In this project, we will study the status of obesity in U.S. and compare it with the obesity condition in other countries.
 
+## Goal of the Project
+
+In this project, we will attempt to answer the following questions:
+
+ * What is the latest status of obesity in U.S. among men and women? We will explore the this question by measuring the mean BMI among men and women separately.
+ * How has obesity (measured by the mean BMI) evolved during the past three decades in U.S. among men and women?
+ * Is there a statistically meaningful difference between the BMI of men and women in U.S.?
+ * What is the latest prevalence rate of obesity (*i.e.* proportion of persons in a population who are obese) in U.S. among men and women?
+ * How has the prevalence rate of obesity evolved during the past three decades in U.S. among men and women? 
+ * What is the latest prevalence rate of underweight (*i.e.* proportion of persons in a population who are underweight) in U.S. among men and women?
+ * How has the prevalence rate of underweight evolved during the past three decades in U.S. among men and women?
+ 
+## Data Source
+
+We will be mainly using the dataset of NCD.RisC (http://ncdrisc.org/index.html) which is freely available. We may also use a small dataset provided by Kaggle where the BMI of 500 individuals have been studied. We may use this small dataset as a sample, and try to do some inferential statistics. By studying this sample, we might be able to formulate some relevant questions about the population, and try to answer them using the Hypothesis Test.
