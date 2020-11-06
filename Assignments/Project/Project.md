@@ -37,7 +37,7 @@ In this project, we will attempt to answer the following questions:
  * How has the prevalence rate of obesity evolved during the past three decades in U.S. among men and women? 
  * What is the latest prevalence rate of underweight (*i.e.* proportion of persons in a population who are underweight) in U.S. among men and women?
  * How has the prevalence rate of underweight evolved during the past three decades in U.S. among men and women?
- * How is the situation in other industrialized countries? We will try to answer all the above questions for some of the industrialized countries and find the relative situation of U.S. among the industrialized countries.
+ * How is the situation in other industrialized countries? We will answer all the above questions for G7 countries and find the relative situation of U.S. among the G7 countries.
  
 ## Data Source
 
